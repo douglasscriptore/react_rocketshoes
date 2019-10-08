@@ -1,0 +1,53 @@
+{
+  "name": "react_rocketshoes",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "immer": "^4.0.1",
+    "polished": "^3.4.1",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "react-icons": "^3.7.0",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.1.2",
+    "reactotron-react-js": "^3.3.4",
+    "reactotron-redux": "^3.1.2",
+    "redux": "^4.0.4",
+    "redux-saga": "^1.1.1",
+    "styled-components": "^4.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start & node_env='development'",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.5.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-config-standard-react": "^9.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier": "^1.18.2"
+  }
+}
